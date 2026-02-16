@@ -1,8 +1,8 @@
 #!/bin/bash
 
 MODEL_NAME="bielik"
-GGUF_FILE="bielik-7b-instruct-v0.1.Q4_K_M.gguf"
-GGUF_URL="https://huggingface.co/speakleash/Bielik-7B-Instruct-v0.1-GGUF/resolve/main/bielik-7b-instruct-v0.1.Q4_K_M.gguf?download=true"
+GGUF_FILENAME="bielik-1.5b-v3.0-instruct.Q4_K_M.gguf"
+DOWNLOAD_URL="https://huggingface.co/speakleash/Bielik-1.5B-v3.0-Instruct-GGUF/resolve/main/bielik-1.5b-v3.0-instruct.Q4_K_M.gguf?download=true"
 
 echo "Starting Bielik LLM integration for Ollama..."
 
